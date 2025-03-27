@@ -4,4 +4,4 @@ This repository contains implementation of planning algorithms under uncertainty
 - Certainty Equivalent Control
 - Domain Randomization
 
-Refer to the paper for more details: \url{https://arxiv.org/abs/2502.12310}
+Refer to the paper for more details: https://arxiv.org/abs/2502.12310
